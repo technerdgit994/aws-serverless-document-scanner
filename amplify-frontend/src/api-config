@@ -1,7 +1,0 @@
-const apiConfig = {
-    "endpoint": "https://master.d3h0j2shhakust.amplifyapp.com"
-    "s3_bucket_name": "amplify-documentscanner-devel-144712-deployment",
-    "s3_region": "us-east-1"
-};
-
-export default apiConfig;
